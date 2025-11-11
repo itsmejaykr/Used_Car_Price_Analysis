@@ -1,0 +1,241 @@
+year,brandName,fuel_type,price,location,emi,owner,Run_Km,Car_age
+2017,Renault,Diesel,676000, Bengaluru,"13,216",2nd owner,72029,8
+2016,Maruti,Petrol,318000, Bengaluru,"6,217",3rd owner,65574,9
+2021,Renault,Petrol,559000, Bengaluru,"10,929",1st owner,54414,4
+2018,Volkswagen,Diesel,630000, Bengaluru,"12,317",2nd owner,63883,7
+2022,Tata,Diesel,1620000, Bengaluru,"30,835",1st owner,49190,3
+2017,Maruti,Petrol,397000, Bengaluru,"7,761",2nd owner,38004,8
+2020,Tata,Petrol,885000, Bengaluru,"16,845",1st owner,45237,5
+2021,Datsun,Petrol,397000, Bengaluru,"7,768",1st owner,20808,4
+2018,Honda,Petrol,925000, Bengaluru,"17,607",1st owner,25751,7
+2023,Hyundai,Petrol,1130000, Bengaluru,"21,502",1st owner,6278,2
+2017,Maruti,Petrol,423000, Bengaluru,"8,268",2nd owner,44158,8
+2019,Honda,Petrol,980000, Bengaluru,"18,653",1st owner,34455,6
+2019,Hyundai,Petrol,1100000, Bengaluru,"20,937",2nd owner,28632,6
+2019,Datsun,Petrol,290000, Bengaluru,"5,671",2nd owner,15881,6
+2022,KIA,Petrol,1469000, Bengaluru,"27,961",1st owner,11437,3
+2022,KIA,Petrol,1560000, Bengaluru,"29,693",1st owner,10975,3
+2021,KIA,Petrol,1108000, Bengaluru,"21,090",1st owner,32386,4
+2021,Renault,Petrol,452000, Bengaluru,"8,837",1st owner,15245,4
+2017,Nissan,Petrol,411000, Bengaluru,"8,035",1st owner,50268,8
+2017,Honda,Petrol,815000, Bengaluru,"15,513",1st owner,42153,8
+2018,Volkswagen,Petrol,525000, Chennai ,"13,939",1st owner,12062,7
+2019,Honda,Petrol,1210000, Chennai ,"16,150",2nd owner,28842,6
+2021,Hyundai,Diesel,595000, Chennai ,"13,783",1st owner,93259,4
+2019,Hyundai,Diesel,1760000, Chennai ,"15,445",2nd owner,30101,6
+2022,Honda,Petrol,569000, Chennai ,"21,033",1st owner,79915,3
+2022,Skoda,Petrol,625000, Chennai ,"24,935",1st owner,37615,3
+2018,Maruti,Petrol,931000, Chennai ,"8,113",1st owner,60856,7
+2016,Volkswagen,Petrol,826000, Chennai ,"11,899",2nd owner,16453,9
+2021,Mahindra,Petrol,400000, Chennai ,"14,942",2nd owner,53039,4
+2020,Volkswagen,Petrol,496000, Chennai ,"17,036",1st owner,89985,5
+2017,Ford,Petrol,1377000, Chennai ,"13,274",1st owner,53405,8
+2016,Honda,Petrol,531000, Chennai ,"12,278",1st owner,9601,9
+2017,Volkswagen,Petrol,604000, Chennai ,"13,181",1st owner,15160,8
+2022,Skoda,Petrol,387000, Chennai ,"22,651",1st owner,82840,3
+2023,Hyundai,Petrol,457000, Chennai ,"20,184",1st owner,57810,2
+2017,Hyundai,Petrol,1136000, Chennai ,"12,141",2nd owner,4607,8
+2022,Tata,Petrol,400000, Chennai ,"14,392",1st owner,98274,3
+2022,Hyundai,Petrol,639000, Chennai ,"17,549",1st owner,31972,3
+2020,Tata,Petrol,824000, Chennai ,"15,582",2nd owner,29577,5
+2018,Hyundai,Petrol,1245000, Chennai ,"13,275",1st owner,33480,7
+2022,Honda,Petrol,831000, Gurugram ,"38,239",1st owner,24151,3
+2018,Ford,Petrol,716000, Gurugram ,"8,653",1st owner,16444,7
+2016,Hyundai,Diesel,533000, Gurugram ,"8,055",1st owner,76042,9
+2020,Renault,Petrol,568000, Gurugram ,"11,381",1st owner,36819,5
+2023,Renault,Petrol,350000, Gurugram ,"12,043",1st owner,43648,2
+2018,Maruti,Petrol,900000, Gurugram ,"12,013",2nd owner,47329,7
+2020,Maruti,Diesel,840000, Gurugram ,"15,418",1st owner,75603,5
+2023,Volkswagen,Petrol,795000, Gurugram ,"23,393",1st owner,10080,2
+2020,Jeep,Petrol,330000, Gurugram ,"19,186",1st owner,92533,5
+2022,Hyundai,Diesel,783000, Gurugram ,"12,844",1st owner,58004,3
+2018,KIA,Diesel,631000, Gurugram ,"20,305",1st owner,40886,7
+2015,Maruti,Petrol,590000, Gurugram ,"6,874",2nd owner,33161,10
+2019,Honda,Petrol,578000, Gurugram ,"16,369",1st owner,56255,6
+2012,Maruti,Petrol,350000, Gurugram ,"8,792",2nd owner,46752,13
+2019,Nissan,Petrol,455000, Gurugram ,"10,405",1st owner,52623,6
+2022,Maruti,Petrol,293000, Gurugram ,"11,862",1st owner,97154,3
+2022,Maruti,Diesel,595000, Gurugram ,"12,990",1st owner,58568,3
+2019,Tata,Petrol,745000, Gurugram ,"10,166",1st owner,92612,6
+2013,Hyundai,Petrol,744000, Gurugram ,"11,276",1st owner,35132,12
+2020,Maruti,Petrol,702000, Gurugram ,"9,384",1st owner,43358,5
+2017,Maruti,Petrol,713000, Hyderabad ,"11,678",1st owner,52832,8
+2023,Maruti,Petrol,848000, Hyderabad ,"23,031",1st owner,55266,2
+2017,Ford,Petrol,705000, Hyderabad ,"11,632",1st owner,4668,8
+2022,Mahindra,Petrol,790000, Hyderabad ,"33,500",1st owner,70168,3
+2017,Hyundai,Petrol,1105000, Hyderabad ,"11,124",1st owner,54185,8
+2019,Honda,Petrol,1310000, Hyderabad ,"12,219",1st owner,49823,6
+2020,Ford,Petrol,415000, Hyderabad ,"17,724",1st owner,56455,5
+2022,Maruti,Diesel,535000, Hyderabad ,"15,718",1st owner,93595,3
+2019,Hyundai,Diesel,764000, Hyderabad ,"7,810",1st owner,80733,6
+2016,Hyundai,Petrol,895000, Hyderabad ,"9,697",1st owner,74366,9
+2021,MG,Petrol,679000, Hyderabad ,"26,214",1st owner,56680,4
+2022,Renault,Petrol,628000, Hyderabad ,"10,374",1st owner,33681,3
+2017,Honda,Petrol,674000, Hyderabad ,"13,436",1st owner,98236,8
+2015,Hyundai,Petrol,1190000, Hyderabad ,"8,616",1st owner,21223,10
+2020,Tata,Petrol,1060000, Hyderabad ,"8,934",1st owner,29210,5
+2023,Maruti,Petrol,621000, Hyderabad ,"21,623",1st owner,63683,2
+2017,KIA,Petrol,736000, Hyderabad ,"7,820",2nd owner,30255,8
+2016,Maruti,Petrol,922000, Hyderabad ,"12,493",1st owner,10470,9
+2022,Honda,Diesel,797000, Hyderabad ,"15,688",1st owner,44393,3
+2021,Tata,Petrol,679000, Hyderabad ,"23,705",2nd owner,94827,4
+2013,Hyundai,Petrol,742000, Jaipur ,"18,406",2nd owner,59085,12
+2020,Tata,Petrol,680000, Jaipur ,"16,560",1st owner,15935,5
+2019,Mahindra,Petrol,728000, Jaipur ,"15,227",1st owner,65434,6
+2017,Renault,Petrol,294000, Jaipur ,"6,896",2nd owner,60452,8
+2020,Renault,Petrol,645000, Jaipur ,"7,662",2nd owner,48959,5
+2019,Mahindra,Petrol,773000, Jaipur ,"12,590",2nd owner,94020,6
+2023,KIA,CNG,409000, Jaipur ,"20,062",1st owner,75502,2
+2021,Maruti,Petrol,860000, Jaipur ,"13,294",1st owner,22894,4
+2015,Hyundai,Petrol,419000, Jaipur ,"12,501",1st owner,28221,10
+2020,Honda,Petrol,711000, Jaipur ,"11,730",1st owner,24626,5
+2018,Hyundai,Petrol,329000, Jaipur ,"9,540",2nd owner,61226,7
+2021,Datsun,Petrol,633000, Jaipur ,"7,859",2nd owner,20512,4
+2015,Hyundai,Diesel,1049000, Jaipur ,"7,630",2nd owner,72781,10
+2018,Renault,Petrol,650000, Jaipur ,"5,415",1st owner,15895,7
+2020,Tata,Petrol,643000, Jaipur ,"9,521",1st owner,40882,5
+2018,Hyundai,Diesel,882000, Jaipur ,"10,381",2nd owner,56279,7
+2017,KIA,Petrol,418000, Jaipur ,"9,384",1st owner,96717,8
+2020,Ford,Petrol,604000, Jaipur ,"14,858",1st owner,6608,5
+2014,Hyundai,Petrol,1303000, Jaipur ,"8,980",2nd owner,29244,11
+2020,Volkswagen,Petrol,397000, Jaipur ,"15,227",1st owner,30862,5
+2018,Ford,Petrol,540000, Kolkata,"10,557",1st owner,79068,7
+2019,Honda,Petrol,480000, Kolkata,"9,388",2nd owner,20450,6
+2018,Hyundai,Petrol,490000, Kolkata,"9,580",1st owner,95835,7
+2021,Hyundai,Petrol,713000, Kolkata,"13,930",1st owner,7096,4
+2020,Hyundai,Petrol,624000, Kolkata,"12,199",1st owner,50274,5
+2021,Hyundai,Petrol,766000, Kolkata,"14,975",1st owner,24678,4
+2015,Hyundai,Petrol,325000, Kolkata,"7,229",1st owner,11765,10
+2019,Hyundai,Petrol,549000, Kolkata,"10,733",1st owner,57942,6
+2021,Renault,Petrol,394000, Kolkata,"7,709",1st owner,13962,4
+2021,Datsun,Petrol,259000, Kolkata,"5,063",1st owner,32922,4
+2018,Mahindra,Diesel,732000, Kolkata,"14,311",2nd owner,76067,7
+2022,Maruti,Petrol,419000, Kolkata,"8,192",1st owner,10462,3
+2018,Maruti,Petrol,700000, Kolkata,"13,685",1st owner,39073,7
+2020,Hyundai,Petrol,550000, Kolkata,"10,753",1st owner,28351,5
+2018,Honda,Diesel,530000, Kolkata,"10,362",1st owner,80654,7
+2018,Hyundai,Petrol,440000, Kolkata,"8,602",2nd owner,69523,7
+2021,Maruti,Petrol,427000, Kolkata,"8,348",1st owner,15272,4
+2021,Tata,Petrol,450000, Kolkata,"8,798",1st owner,33801,4
+2021,Tata,Petrol,520000, Kolkata,"10,166",1st owner,67316,4
+2015,Hyundai,Petrol,316000, Kolkata,"7,029",1st owner,71787,10
+2021,Hyundai,Petrol,696000, Kolkata,"15,817",2nd owner,32902,4
+2021,Tata,Petrol,814000, Mumbai ,"13,998",1st owner,19816,4
+2016,Ford,Petrol,418000, Mumbai ,"11,867",1st owner,4645,9
+2017,Honda,Diesel,1078000, Mumbai ,"11,109",1st owner,60477,8
+2016,Hyundai,Petrol,772000, Mumbai ,"6,843",1st owner,35805,9
+2019,Hyundai,Petrol,478000, Mumbai ,"17,123",2nd owner,64473,6
+2020,Tata,Petrol,729000, Mumbai ,"15,989",2nd owner,64310,5
+2021,Hyundai,Petrol,977000, Mumbai ,"15,542",2nd owner,13525,4
+2014,Maruti,Petrol,278000, Mumbai ,"8,690",1st owner,39826,11
+2017,Volkswagen,Petrol,961000, Mumbai ,"15,308",2nd owner,32638,8
+2015,Hyundai,Petrol,187000, Mumbai ,"16,617",1st owner,70814,10
+2022,Mahindra,Petrol,1040000, Mumbai ,"11,535",1st owner,16331,3
+2020,Nissan,Petrol,849000, Mumbai ,"11,300",2nd owner,44615,5
+2020,Maruti,CNG,617000, Mumbai ,"6,843",1st owner,41988,5
+2021,Renault,Petrol,790000, Mumbai ,"8,895",2nd owner,51643,4
+2014,Tata,Diesel,778000, Mumbai ,"7,716",2nd owner,71195,11
+2020,Volkswagen,Petrol,895000, Mumbai ,"11,623",2nd owner,19892,5
+2019,Hyundai,CNG,533000, Mumbai ,"14,565",2nd owner,37977,6
+2019,Hyundai,Petrol,585000, Mumbai ,"14,545",1st owner,10082,6
+2017,Hyundai,Petrol,489000, Mumbai ,"13,724",1st owner,70082,8
+2016,Honda,Diesel,391000, Nagpur ,"10,459",2nd owner,74220,9
+2017,Maruti,Diesel,870000, Nagpur ,"10,127",1st owner,68815,8
+2019,Volkswagen,Diesel,800000, Nagpur ,"8,915",1st owner,58255,6
+2020,Renault,CNG,310000, Nagpur ,"10,923",1st owner,91715,5
+2015,Hyundai,Petrol,392000, Nagpur ,"7,341",2nd owner,44963,10
+2014,Honda,Petrol,644000, Nagpur ,"10,534",2nd owner,75997,11
+2019,Hyundai,Petrol,1054000, Nagpur ,"16,712",1st owner,37839,6
+2017,Maruti,Petrol,680000, Nagpur ,"10,210",3rd owner,23883,8
+2014,Tata,Petrol,562000, Nagpur ,"6,557",3rd owner,67608,11
+2019,Renault,Petrol,600000, Nagpur ,"13,589",1st owner,77010,6
+2020,Tata,Petrol,488000, Nagpur ,"10,326",1st owner,93050,5
+2020,KIA,Petrol,402000, Nagpur ,"11,593",1st owner,54605,5
+2023,Hyundai,Petrol,343000, Nagpur ,"17,443",1st owner,74010,2
+2016,Maruti,Petrol,277000, Nagpur ,"8,954",1st owner,62277,9
+2018,Maruti,Petrol,487000, Nagpur ,"8,853",1st owner,48091,7
+2014,Maruti,Petrol,531000, Nagpur ,"9,784",2nd owner,33299,11
+2020,Tata,Petrol,480000, Nagpur ,"11,867",1st owner,77117,5
+2022,Honda,Petrol,760000, Nagpur ,"7,089",2nd owner,51078,3
+2024,Renault,Petrol,341000, Nagpur ,"15,437",1st owner,97917,1
+2019,Maruti,Petrol,800000, Nagpur ,"11,906",1st owner,19398,6
+2018,Hyundai,Diesel,729000, Nagpur ,"14,506",1st owner,62839,7
+2022,Honda,Petrol,443000, New Delhi ,"13,294",1st owner,66878,3
+2017,Honda,Petrol,412000, New Delhi ,"14,233",2nd owner,89071,8
+2019,Maruti,Petrol,582000, New Delhi ,"5,748",1st owner,34727,6
+2018,Ford,Petrol,616000, New Delhi ,"12,610",1st owner,7085,7
+2017,Hyundai,Petrol,614000, New Delhi ,"15,112",1st owner,45657,8
+2020,Maruti,Petrol,810000, New Delhi ,"7,991",1st owner,24961,5
+2022,Tata,Petrol,1229000, New Delhi ,"16,369",1st owner,10034,3
+2016,Hyundai,Petrol,1008000, New Delhi ,"8,192",1st owner,76407,9
+2022,Maruti,Petrol,657000, New Delhi ,"13,907",1st owner,26069,3
+2017,Nissan,Petrol,1067000, New Delhi ,"6,432",1st owner,44076,8
+2022,Hyundai,Petrol,309000, New Delhi ,"12,369",1st owner,91116,3
+2019,Maruti,Petrol,860000, New Delhi ,"27,112",1st owner,90622,6
+2019,MG,Petrol,187000, New Delhi ,"12,703",1st owner,75113,6
+2019,Honda,Petrol,532000, New Delhi ,"12,571",1st owner,38402,6
+2019,Mahindra,Petrol,607000, New Delhi ,"22,787",1st owner,35696,6
+2018,Volkswagen,Petrol,664000, New Delhi ,"8,172",2nd owner,28971,7
+2018,Volkswagen,CNG,520000, New Delhi ,"13,431",2nd owner,48034,7
+2022,Mahindra,Petrol,340000, New Delhi ,"24,809",1st owner,8809,3
+2019,Datsun,Petrol,480000, New Delhi ,"7,767",1st owner,54112,6
+2020,Hyundai,Petrol,535000, Patna ,"10,557",1st owner,41205,5
+2018,Tata,Diesel,518000, Patna ,"14,663",1st owner,40087,7
+2021,Ford,Petrol,456000, Patna ,"8,798",1st owner,67977,4
+2018,Ford,Petrol,559000, Patna ,"8,602",1st owner,37860,7
+2019,Honda,Petrol,330000, Patna ,"8,563",1st owner,54611,6
+2017,Tata,Petrol,400000, Patna ,"9,435",1st owner,93782,8
+2020,Honda,Petrol,878000, Patna ,"10,323",1st owner,47605,5
+2019,Ford,Diesel,459000, Patna ,"9,756",1st owner,4971,6
+2019,Maruti,Petrol,249000, Patna ,"10,956",1st owner,86884,6
+2017,Maruti,Petrol,695000, Patna ,"10,687",1st owner,62400,8
+2020,Hyundai,Petrol,528000, Patna ,"10,430",1st owner,30839,5
+2017,Hyundai,Petrol,593000, Patna ,"9,306",1st owner,71513,8
+2020,Hyundai,Petrol,916000, Patna ,"10,459",1st owner,23953,5
+2020,Honda,CNG,340000, Patna ,"12,086",1st owner,14001,5
+2021,Tata,Petrol,453000, Patna ,"15,703",1st owner,39228,4
+2020,Maruti,Petrol,372000, Patna ,"6,764",1st owner,55622,5
+2013,Maruti,Petrol,607000, Patna ,"7,673",1st owner,56251,12
+2017,Maruti,Petrol,363000, Patna ,"5,767",1st owner,57635,8
+2019,KIA,Petrol,811000, Patna ,"9,931",1st owner,9169,6
+2021,Maruti,Diesel,609000, Patna ,"17,226",1st owner,79903,4
+2022,Tata,Petrol,674000, Pune ,"13,607",1st owner,21155,3
+2021,Skoda,Petrol,570000, Pune ,"15,494",2nd owner,21281,4
+2018,Tata,Petrol,524000, Pune ,"9,298",2nd owner,31353,7
+2018,Jeep,CNG,478000, Pune ,"20,519",1st owner,39358,7
+2018,Honda,Diesel,745000, Pune ,"15,093",2nd owner,90195,7
+2015,Skoda,Petrol,676000, Pune ,"10,629",1st owner,20654,10
+2020,MG,Diesel,321000, Pune ,"14,261",1st owner,54093,5
+2022,Honda,CNG,431000, Pune ,"18,596",1st owner,52325,3
+2016,KIA,Petrol,911000, Pune ,"5,435",1st owner,28164,9
+2020,Mahindra,Diesel,551000, Pune ,"18,288",2nd owner,10200,5
+2014,Tata,Diesel,540000, Pune ,"4,929",1st owner,42459,11
+2022,Tata,Petrol,332000, Pune ,"19,795",1st owner,96924,3
+2020,Mahindra,Petrol,684000, Pune ,"16,157",1st owner,8035,5
+2022,Mahindra,Diesel,762000, Pune ,"12,062",1st owner,33917,3
+2020,MG,Diesel,989000, Pune ,"15,445",1st owner,38140,5
+2019,Tata,Petrol,527000, Pune ,"15,210",3rd owner,41810,6
+2021,Honda,Petrol,369000, Pune ,"17,036",1st owner,39021,4
+2022,Maruti,Diesel,1239000, Pune ,"10,420",1st owner,94606,3
+2018,Mahindra,Diesel,624000, Pune ,"11,437",1st owner,94672,7
+2017,Hyundai,Petrol,465000, Pune ,"9,560",2nd owner,32160,8
+2021,Maruti,Petrol,540000, Surat ,"13,180",1st owner,10787,4
+2022,Maruti,Diesel,750000, Surat ,"11,151",1st owner,65563,3
+2018,Honda,Diesel,450000, Surat ,"10,244",1st owner,45948,7
+2020,Maruti,Diesel,440000, Surat ,"9,343",2nd owner,34035,5
+2018,Mahindra,Petrol,438000, Surat ,"14,565",2nd owner,53648,7
+2019,Volkswagen,Petrol,483000, Surat ,"13,216",2nd owner,75320,6
+2013,Hyundai,Diesel,528000, Surat ,"15,093",1st owner,45538,12
+2019,Maruti,Petrol,499000, Surat ,"8,426",2nd owner,25768,6
+2021,Hyundai,Petrol,560000, Surat ,"17,341",2nd owner,25384,4
+2016,MG,Diesel,547000, Surat ,"12,256",2nd owner,57171,9
+2017,Renault,Petrol,533000, Surat ,"10,557",1st owner,60498,8
+2013,Maruti,Petrol,476000, Surat ,"11,027",1st owner,35479,12
+2021,Maruti,Petrol,535000, Surat ,"13,372",1st owner,58579,4
+2021,Tata,Petrol,618000, Surat ,"14,897",2nd owner,35265,4
+2022,Tata,Petrol,825000, Surat ,"18,825",1st owner,30663,3
+2022,Renault,Petrol,346000, Surat ,"10,303",1st owner,48099,3
+2022,Renault,Petrol,231000, Surat ,"7,206",1st owner,16776,3
+2021,MG,Petrol,295000, Surat ,"23,583",1st owner,82958,4
+2019,Ford,Petrol,508000, Surat ,"12,199",1st owner,64235,6
+2019,Renault,Petrol,905000, Surat ,"9,091",1st owner,53331,6
